@@ -1,2 +1,6 @@
 print("hello")
-if sadasdasdasfasfxvsdzc
+a=b=2
+if a==b:
+    print("Yes")
+else:
+    print('No')
