@@ -4,4 +4,4 @@ if a==b:
     print("Yes")
 else:
     print('No')
-    njkb
+print(345)
